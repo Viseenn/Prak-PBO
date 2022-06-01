@@ -36,7 +36,7 @@ public class tableModelData extends AbstractTableModel{
             case 2 -> "Nama Kasir";
             case 3 -> "Quantity";
             case 4 -> "Harga Satuan";
-            case 5 -> "Diskon";
+            case 5 -> "Diskon (%)";
             case 6 -> "Harga Total";
             default -> null;
         };
